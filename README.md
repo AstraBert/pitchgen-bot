@@ -47,7 +47,7 @@ cd pitchgen-bot
 Rename `.env.example` to `.env` and paste your OpenAI and Anthropic API keys in the dedicated fields:
 ```bash
 # BOTH Windows and Linux
-mv .env.local .env
+mv .env.example .env
 ```
 
 
